@@ -16,3 +16,8 @@ tinker cad =
 https://www.tinkercad.com/things/iUGr80ZBBxQ-arduino-task2-seds-avionics/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fthings%2FiUGr80ZBBxQ-brilliant-bojo&sharecode=kYgmYDLgmAsfcllRCSfmVc23JDHqvCwp37S3hJR2F4A
 
 THANKS
+
+
+for depth_final_frame.png i gave the code toAI to draw it neatly 
+and DUE TO MY MISTAKE AND LAST MINUTE DOING THE TASK I COULDNT GET TO UPLOAD ALL THE FILES NEATLY AND CLEANY BUT I UPLOADED EVERYTHING BUT NOT JUST IN ORDER
+PLS EXCUSE THE ORGANISING  PART OF MINE SORRY 
